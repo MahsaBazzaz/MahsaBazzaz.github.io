@@ -53,13 +53,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: I am a doctoral student in the Khoury College of Computer Sciences at Northeastern University, advised by Seth Cooper. Building on my lifelong fascination with game programming and my undergraduate courses in Artificial Intellignece, and machine learning, I started working on game science, specifically procedural content generation with machine learning in games. I investigate the effectiveness of generative models, for creating diverse and playable game levels. Prior to joining Khoury College in 2023, I was a game AI intern, working on nonplayable character behavior, procedural map generation, and game design and development frameworks.
 education:
     title: Education
     info:
@@ -75,157 +69,133 @@ education:
         details: 
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+    title: Taching Experiences
+    info: 
+      - role: Graduate Teaching Assistant
+        time: Jan 2023 - Apr 2023
+        company: Northeastern University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+         CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
+          including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees, and simple artificial intelligence.
+            - Office Hours to lead students with their projects
+            - Creating Rubrics for Projects
+            - Grading weekly assignments, projects, and quizes
+
+      - role: Graduate Teaching Assistant
+        time: May 2023 - Jul 2023
+        company: Northeastern University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
+            including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees,
+             and simple artificial intelligence.
+
+              - Office Hours to lead students with their projects
+              - Creating Rubrics for Projects
+              - Grading weekly assignments, projects, and quizes
+
+      - role: Graduate Teaching Assistant
+        time: Sep 2023 - Dec 2023
+        company: Northeastern University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         CS 5340 Human Computer Interaction :  This course covers the principles of human-computer interaction and the design and evaluation of user interfaces.
+          Topics include an overview of human information processing subsystems;
+          how the properties of these systems affect the design of user interfaces;
+          the principles, guidelines, and specification languages for designing good user interfaces;
+          and a variety of interface evaluation methodologies that can be used to measure the usability of software. 
+            - Office Hours to lead students with their projects
+            - Grading weekly assignments, projects, and quizes
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+        - name: Human Subjects Research
+          start: Jan 2023
+          end: Jan 2026
+          organization: CITI Program
+          credentialid: 53616730
+          credentialurl: https://www.citiprogram.org/verify/?wf2f5cb66-af38-4f37-979a-419b37fadaf5-53616730
+          credentialname: 
+          details: 
+        - name: Social and Behavioral Responsible Conduct of Research
+          start: Jan 2023
+          end: Jan 2026
+          organization: CITI Program
+          credentialid: 53616729
+          credentialurl: https://www.citiprogram.org/verify/?wf5f04cad-6ce8-495b-88a8-2281dc590d27-53616729
+          credentialname: 
+          details: 
+        - name: Game Design
+          start: Aug 2021
+          end: 
+          organization: Coursera
+          credentialid: ZT76GG9UW3GX
+          credentialurl: https://www.coursera.org/account/accomplishments/certificate/ZT76GG9UW3GX
+          credentialname: 
+          details: 
+        - name: Gamification
+          start: July 2021
+          end: 
+          organization: Coursera
+          credentialid: CM92EAYD237A
+          credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
+          credentialname: 
+          details: 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Endless Runner
+        link: https://github.com/MahsaBazzaz/endless-runner
+        tagline: "A Simple Endless Runner Game"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Twitter Crawler
+        link: https://github.com/MahsaBazzaz/twitter-crawler
+        tagline: "Implementation of a twitter crawler with Angular (front-end), Node.Js and PostgreSQL (back-end)"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Online Shop
+        link: https://github.com/MahsaBazzaz/online-shop
+        tagline: "Implementation of a simple E-commerce Store in HTML, CSS (front-end) and Node.Js, PostgreSQL (back-end) "
 
-      - title: Atom
-        link: "#"
+      - title: Foofle Principles of Database Design
+        link: https://github.com/MahsaBazzaz/rocks-db
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Download Manager
+        link: https://github.com/MahsaBazzaz/download-manager
+        tagline: "A simple download manager implemented in Java language."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Active Learning for Classifying 2D Grid-Based
+        link: https://ieeexplore.ieee.org/abstract/document/10333212
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: IEEE Conference on Games 2023
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Unity2d, Unity3d, C#
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C#
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 95%
+      
+      - name: PyTorch, pandas, NumPy, scikit-learn
+        level: 95%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: TypeScript, JavaScript, Node.js, Nest.js, Express.js, Angular
+        level: 70%
+
+      - name: Node.js, Nest.js, Express.js, Angular
+        level: 70%
+
+      - name: MySQL, PostgreSQL
+        level: 50%
+
+footer: 
