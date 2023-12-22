@@ -177,7 +177,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Unity2d, Unity3d, C#
+      - name: Unity2d | Unity3d | C#
         level: 95%
 
       - name: C#
@@ -186,16 +186,16 @@ skills:
       - name: Python
         level: 95%
       
-      - name: PyTorch, pandas, NumPy, scikit-learn
+      - name: PyTorch | pandas| NumPy| scikit-learn
         level: 95%
 
-      - name: TypeScript, JavaScript, Node.js, Nest.js, Express.js, Angular
+      - name: TypeScript | JavaScript | Node.js | Nest.js | Express.js | Angular
         level: 70%
 
-      - name: Node.js, Nest.js, Express.js, Angular
+      - name: Node.js | Nest.js | Express.js | Angular
         level: 70%
 
-      - name: MySQL, PostgreSQL
+      - name: MySQL | PostgreSQL
         level: 50%
 
 footer: 
