@@ -72,26 +72,17 @@ experiences:
     title: Taching Experiences
     info: 
       - role: Graduate Teaching Assistant
-        time: Jan 2023 - Apr 2023
-        company: Northeastern University
-        details: |
-         CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
-          including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees, and simple artificial intelligence.
-            - Office Hours to lead students with their projects
-            - Creating Rubrics for Projects
-            - Grading weekly assignments, projects, and quizes
-
-      - role: Graduate Teaching Assistant
-        time: May 2023 - Jul 2023
+        time: Jan 2024 - Apr 2024
         company: Northeastern University
         details: |
             CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
             including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees,
              and simple artificial intelligence.
-
-              - Office Hours to lead students with their projects
-              - Creating Rubrics for Projects
-              - Grading weekly assignments, projects, and quizes
+            - Grade HW assignments, online activities, and project deliverables
+            - Hold weekly office hours
+            - Mentor students in their final project
+            - Monitor online Q/A on Piazza
+            - Help with developing quiz questions/HW problems
 
       - role: Graduate Teaching Assistant
         time: Sep 2023 - Dec 2023
@@ -102,8 +93,28 @@ experiences:
           how the properties of these systems affect the design of user interfaces;
           the principles, guidelines, and specification languages for designing good user interfaces;
           and a variety of interface evaluation methodologies that can be used to measure the usability of software. 
-            - Office Hours to lead students with their projects
-            - Grading weekly assignments, projects, and quizes
+            - Grade HW assignments, activities, and project deliverables
+            - Hold weekly office hours
+            - Mentor students in their final project
+            - Monitor online Q/A on Piazza
+            - Help with developing quiz questions/HW problems and other materials
+            - Attend live sessions
+
+      - role: Graduate Teaching Assistant
+        time: May 2023 - Jul 2023
+        company: Northeastern University
+        details: |
+            CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
+            including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees,
+             and simple artificial intelligence.
+            
+
+      - role: Graduate Teaching Assistant
+        time: Jan 2023 - Apr 2023
+        company: Northeastern University
+        details: |
+         CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
+          including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees, and simple artificial intelligence.
 
 certifications:
       title: Certifications
