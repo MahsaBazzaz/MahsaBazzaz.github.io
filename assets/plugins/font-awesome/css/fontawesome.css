@@ -1486,7 +1486,7 @@ readers do not read off random characters that represent icons */
 .fa-gitlab:before {
   content: "\f296"; }
 
-.fa-scholar:before {
+.fa-google-scholar:before {
     content: "\f296"; }
 
 .fa-gitter:before {
