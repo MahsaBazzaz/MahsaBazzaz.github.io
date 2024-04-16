@@ -15,14 +15,15 @@ sidebar:
     # Sidebar links
     email: bazzaz.ma@northeastern.edu
     phone: 
-    timezone: America/Eastern Standard Time
+    timezone: 
     citizenship:
-    website: mahsa.sites.northeastern.edu/ #do not add http://
+    website: mahsa-bazzaz #do not add http://
     linkedin: mahsa-bazzaz
     xing: 
     github: MahsaBazzaz
     telegram: # add your nickname without '@' sign
     gitlab:
+    scholar: Google Scholar
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -53,7 +54,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: I am a doctoral student in the Khoury College of Computer Sciences at Northeastern University, advised by Seth Cooper. Building on my lifelong fascination with game programming and my undergraduate courses in Artificial Intellignece, and machine learning, I started working on game science, specifically procedural content generation with machine learning in games. I investigate the effectiveness of generative models, for creating diverse and playable game levels. Prior to joining Khoury College in 2023, I was a game AI intern, working on nonplayable character behavior, procedural map generation, and game design and development frameworks.
+    summary: I am a doctoral student in the Khoury College of Computer Sciences at Northeastern University, advised by Seth Cooper. Building on my lifelong fascination with game programming and my undergraduate courses in Artificial intelligence, and machine learning, I started working on game science, specifically procedural content generation with machine learning in games. I investigate the effectiveness of generative models, for creating diverse and playable game levels. Prior to joining Khoury College in 2023, I was a game AI intern, working on nonplayable character behavior, procedural map generation, and game design and development frameworks.
 education:
     title: Education
     info:
@@ -69,15 +70,16 @@ education:
         details: 
 
 experiences:
-    title: Taching Experiences
+    title: Teaching Experiences
     info: 
-      - role: Graduate Teaching Assistant
+      - role: Lead Graduate Teaching Assistant
         time: Jan 2024 - Apr 2024
         company: Northeastern University
         details: |
             CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
             including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees,
              and simple artificial intelligence.
+            - Lead other TAs with their tasks
             - Grade HW assignments, online activities, and project deliverables
             - Hold weekly office hours
             - Mentor students in their final project
@@ -104,17 +106,13 @@ experiences:
         time: May 2023 - Jul 2023
         company: Northeastern University
         details: |
-            CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
-            including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees,
-             and simple artificial intelligence.
-            
+            CS 3540 Game Programming
 
       - role: Graduate Teaching Assistant
         time: Jan 2023 - Apr 2023
         company: Northeastern University
         details: |
-         CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
-          including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees, and simple artificial intelligence.
+         CS 3540 Game Programming
 
 certifications:
       title: Certifications

@@ -33,7 +33,7 @@
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+      <a href="http://khoury.northeastern.edu/people/{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
@@ -58,6 +58,12 @@
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.scholar %}
+    <li class="scholar"><i class="fa-brands fa-google-scholar"></i>
+      <a href="http://scholar.google.com/citations?user=3elB1oYAAAAJ&hl=en" target="_blank">{{ sidebar.scholar }}</a>
     </li>
     {% endif %}
 
