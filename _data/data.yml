@@ -181,6 +181,11 @@ publications:
         link: https://ieeexplore.ieee.org/abstract/document/10333212
         authors: Mahsa Bazzaz and Seth Cooper
         conference: IEEE Conference on Games 2023
+      
+      - title: Thirty-Three Years of Mathematicians and Software Engineers A Case Study of Domain Expertise and Participation in Proof Assistant Ecosystems
+        link: https://www.jonbell.net/preprint/msr24-proof-assistants.pdf
+        authors: G Lincroft, M Cho, K Hough, M Bazzaz, J Bell
+        conference: Mining Software Repositories conference series 2024
 
 skills:
     title: Skills &amp; Proficiency
