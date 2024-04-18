@@ -177,7 +177,7 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: Active Learning for Classifying 2D Grid-Based
+      - title: Active Learning for Classifying 2D Grid-Based Level Completability
         link: https://ieeexplore.ieee.org/abstract/document/10333212
         authors: Mahsa Bazzaz and Seth Cooper
         conference: IEEE Conference on Games 2023
