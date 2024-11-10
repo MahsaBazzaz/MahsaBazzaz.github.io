@@ -54,65 +54,65 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: I am a doctoral student in the Khoury College of Computer Sciences at Northeastern University, advised by Seth Cooper. Building on my lifelong fascination with game programming and my undergraduate courses in Artificial intelligence, and machine learning, I started working on game science, specifically procedural content generation with machine learning in games. I investigate the effectiveness of generative models, for creating diverse and playable game levels. Prior to joining Khoury College in 2023, I was a game AI intern, working on nonplayable character behavior, procedural map generation, and game design and development frameworks.
+    summary: |
+    I am a doctoral student at Northeastern University’s Khoury College of Computer Sciences, specializing in procedural content generation for discrete data types like game levels. My research combines traditional constraint-based models with modern machine learning techniques to generate diverse, playable, and computationally efficient game levels. My goal is to develop ensemble methods that capitalize on the reliability of constraint-based models alongside the speed of machine learning approaches. I am particularly interested in bringing together communities that rely on generative models to produce "\textbf{correct}" outputs like molecular design, arithmetic expression generation, and source code synthesis. These communities deal with underlying tasks that are highly similar to game level generation, therefore game level generation can offer an ideal test bed that avoids ethical concerns and excessive complexities for them.
 education:
     title: Education
     info:
-      - degree: P.h.D in Computer Science
+      - degree: PhD in Computer Science
         university: Northeastern University
-        time: 2023 - 2029
+        time: Jan 2023 - Dec 2027
+        details: |
+            - Advisor: Professor Seth Cooper
+
+        - degree: MS in Computer Science
+        university: Northeastern University
+        time: Jan 2023 - Mar 2025
         details: |
             - GPA: 4.0/4.0
+            - Selected Coursework: Statistical Methods for Computer Science, Procedural Content Generation via Machine Learning, Foundations and Applications of Information Theory
 
-      - degree: B.Sc. in Computer Engineering
-        university: Amirkabir University of Technology
-        time: 2017 – 2022
-        details: 
+      - degree: BS in Computer Engineering
+        university: Amirkabir University of Technology (Tehran Polytechnic)
+        time: Sep 2017 – Dec 2022
+        details: |
+            - Selected Coursework: Principles and Applications of Artificial Intelligence, Principles of Computational Intelligence, Introduction to Machine Learning
 
 experiences:
     title: Teaching Experiences
     info: 
-      - role: Lead Graduate Teaching Assistant
-        time: Jan 2024 - Apr 2024
-        company: Northeastern University
-        details: |
-            CS 3540 Game Programming : This course introduces the different subsystems used to create a 3D game,
-            including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees,
-             and simple artificial intelligence.
-            - Lead other TAs with their tasks
-            - Grade HW assignments, online activities, and project deliverables
-            - Hold weekly office hours
-            - Mentor students in their final project
-            - Monitor online Q/A on Piazza
-            - Help with developing quiz questions/HW problems
-
       - role: Graduate Teaching Assistant
-        time: Sep 2023 - Dec 2023
+        time: Jan 2023 - present
         company: Northeastern University
         details: |
-         CS 5340 Human Computer Interaction :  This course covers the principles of human-computer interaction and the design and evaluation of user interfaces.
-          Topics include an overview of human information processing subsystems;
-          how the properties of these systems affect the design of user interfaces;
-          the principles, guidelines, and specification languages for designing good user interfaces;
-          and a variety of interface evaluation methodologies that can be used to measure the usability of software. 
-            - Grade HW assignments, activities, and project deliverables
-            - Hold weekly office hours
-            - Mentor students in their final project
-            - Monitor online Q/A on Piazza
-            - Help with developing quiz questions/HW problems and other materials
-            - Attend live sessions
+            - CS 3540 Game Programming $\times$ 3
+            - CS 5340 Human Computer Interaction
+            - CS3520: Programming in C++
 
-      - role: Graduate Teaching Assistant
-        time: May 2023 - Jul 2023
-        company: Northeastern University
+       - role: Teaching Assistant
+        time: Feb 2020 - Jul 2020
+        company: Amirkabir University of Technology (Tehran Polytechnic)
         details: |
-            CS 3540 Game Programming
+            - CE 3102213: Algorithm Design course
 
-      - role: Graduate Teaching Assistant
-        time: Jan 2023 - Apr 2023
-        company: Northeastern University
+    title: Internships
+    info: 
+      - role: Game Developer Intern
+        time: Mar 2021 – Dec 2021
+        company: Cirqle Games
         details: |
-         CS 3540 Game Programming
+            - C# Development, Object-Oriented Programming
+            - Unity Game Engine, Game Design and Mechanics
+            - Azure DevOps, Agile Development
+
+      - role: Back-End Developer Intern
+        time: Jul 2020 – Feb 2021
+        company: Limoome
+        details: |
+            - Node.js, Nest.js, TypeScript
+            - PostgreSQL, Jest.js
+            - Azure DevOps, Agile Development
+
 
 certifications:
       title: Certifications
@@ -149,43 +149,69 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
           credentialname: 
           details: 
-projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Endless Runner
-        link: https://github.com/MahsaBazzaz/endless-runner
-        tagline: "A Simple Endless Runner Game"
+# projects:
+#     title: Projects
+#     intro: 
+#     assignments:
+#       - title: Endless Runner
+#         link: https://github.com/MahsaBazzaz/endless-runner
+#         tagline: "A Simple Endless Runner Game"
 
-      - title: Twitter Crawler
-        link: https://github.com/MahsaBazzaz/twitter-crawler
-        tagline: "Implementation of a twitter crawler with Angular (front-end), Node.Js and PostgreSQL (back-end)"
+#       - title: Twitter Crawler
+#         link: https://github.com/MahsaBazzaz/twitter-crawler
+#         tagline: "Implementation of a twitter crawler with Angular (front-end), Node.Js and PostgreSQL (back-end)"
 
-      - title: Online Shop
-        link: https://github.com/MahsaBazzaz/online-shop
-        tagline: "Implementation of a simple E-commerce Store in HTML, CSS (front-end) and Node.Js, PostgreSQL (back-end) "
+#       - title: Online Shop
+#         link: https://github.com/MahsaBazzaz/online-shop
+#         tagline: "Implementation of a simple E-commerce Store in HTML, CSS (front-end) and Node.Js, PostgreSQL (back-end) "
 
-      - title: Foofle Principles of Database Design
-        link: https://github.com/MahsaBazzaz/rocks-db
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Foofle Principles of Database Design
+#         link: https://github.com/MahsaBazzaz/rocks-db
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Download Manager
-        link: https://github.com/MahsaBazzaz/download-manager
-        tagline: "A simple download manager implemented in Java language."
+#       - title: Download Manager
+#         link: https://github.com/MahsaBazzaz/download-manager
+#         tagline: "A simple download manager implemented in Java language."
 
 publications:
     title: Publications
     intro: 
     papers:
-      - title: Active Learning for Classifying 2D Grid-Based Level Completability
-        link: https://ieeexplore.ieee.org/abstract/document/10333212
+      - title: Guided Game Level Repair via Explainable AI
+        link: https://arxiv.org/pdf/2410.23101?
         authors: Mahsa Bazzaz and Seth Cooper
-        conference: IEEE Conference on Games 2023
+        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+        year: 2024
+
+      - title: Sturgeon-MKIV- Constraint-Based Level and Playthrough Generation with Graph Label Rewrite Rules
+        link: 
+        authors: Seth Cooper and Mahsa Bazzaz
+        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+        year: 2024
+
+      - title: Controllable Game Level Generation- Assessing the Effect of Negative Examples in GAN Models
+        link: https://arxiv.org/abs/2410.23108
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+        year: 2024
+
+      - title: Literally Unplayable- On Constraint-Based Generation of Uncompletable Levels
+        link: https://doi.org/10.1145/3649921.3659844
+        authors: Seth Cooper and Mahsa Bazzaz
+        conference: Proceedings of the 19th International Conference on the Foundations of Digital Games (FDG)
+        year: 2024
       
       - title: Thirty-Three Years of Mathematicians and Software Engineers A Case Study of Domain Expertise and Participation in Proof Assistant Ecosystems
         link: https://www.jonbell.net/preprint/msr24-proof-assistants.pdf
         authors: G Lincroft, M Cho, K Hough, M Bazzaz, J Bell
         conference: Mining Software Repositories conference series 2024
+        year: 2024
+
+      - title: Active Learning for Classifying 2D Grid-Based Level Completability
+        link: https://ieeexplore.ieee.org/abstract/document/10333212
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: IEEE Conference on Games 2023
+        year: 2023
 
 skills:
     title: Skills &amp; Proficiency
