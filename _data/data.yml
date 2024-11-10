@@ -54,8 +54,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-    I am a doctoral student at Northeastern University’s Khoury College of Computer Sciences, specializing in procedural content generation for discrete data types like game levels. My research combines traditional constraint-based models with modern machine learning techniques to generate diverse, playable, and computationally efficient game levels. My goal is to develop ensemble methods that capitalize on the reliability of constraint-based models alongside the speed of machine learning approaches. I am particularly interested in bringing together communities that rely on generative models to produce "\textbf{correct}" outputs like molecular design, arithmetic expression generation, and source code synthesis. These communities deal with underlying tasks that are highly similar to game level generation, therefore game level generation can offer an ideal test bed that avoids ethical concerns and excessive complexities for them.
+    summary: I am a doctoral student at Northeastern University’s Khoury College of Computer Sciences, specializing in procedural content generation for discrete data types like game levels. My research combines traditional constraint-based models with modern machine learning techniques to generate diverse, playable, and computationally efficient game levels. My goal is to develop ensemble methods that capitalize on the reliability of constraint-based models alongside the speed of machine learning approaches. I am particularly interested in bringing together communities that rely on generative models to produce "\textbf{correct}" outputs like molecular design, arithmetic expression generation, and source code synthesis. These communities deal with underlying tasks that are highly similar to game level generation, therefore game level generation can offer an ideal test bed that avoids ethical concerns and excessive complexities for them.
+    
 education:
     title: Education
     info:
@@ -63,40 +63,32 @@ education:
         university: Northeastern University
         time: Jan 2023 - Dec 2027
         details: |
-            - Advisor: Professor Seth Cooper
+        Advisor Professor: Seth Cooper
 
-        - degree: MS in Computer Science
+      - degree: MS in Computer Science
         university: Northeastern University
         time: Jan 2023 - Mar 2025
         details: |
-            - GPA: 4.0/4.0
-            - Selected Coursework: Statistical Methods for Computer Science, Procedural Content Generation via Machine Learning, Foundations and Applications of Information Theory
+        GPA: 4.0/4.0
+        Selected Coursework: Statistical Methods for Computer Science, Procedural Content Generation via Machine Learning, Foundations and Applications of Information Theory
 
       - degree: BS in Computer Engineering
         university: Amirkabir University of Technology (Tehran Polytechnic)
         time: Sep 2017 – Dec 2022
         details: |
-            - Selected Coursework: Principles and Applications of Artificial Intelligence, Principles of Computational Intelligence, Introduction to Machine Learning
+        Selected Coursework: Principles and Applications of Artificial Intelligence, Principles of Computational Intelligence, Introduction to Machine Learning
 
 experiences:
-    title: Teaching Experiences
+    title: Experiences
     info: 
       - role: Graduate Teaching Assistant
         time: Jan 2023 - present
         company: Northeastern University
         details: |
-            - CS 3540 Game Programming $\times$ 3
+            - CS 3540 Game Programming * 3
             - CS 5340 Human Computer Interaction
-            - CS3520: Programming in C++
+            - CS3520 Programming in C++
 
-       - role: Teaching Assistant
-        time: Feb 2020 - Jul 2020
-        company: Amirkabir University of Technology (Tehran Polytechnic)
-        details: |
-            - CE 3102213: Algorithm Design course
-
-    title: Internships
-    info: 
       - role: Game Developer Intern
         time: Mar 2021 – Dec 2021
         company: Cirqle Games
@@ -113,6 +105,11 @@ experiences:
             - PostgreSQL, Jest.js
             - Azure DevOps, Agile Development
 
+      - role: Teaching Assistant
+        time: Feb 2020 - Jul 2020
+        company: Amirkabir University of Technology (Tehran Polytechnic)
+        details: |
+            - CE 3102213 Algorithm Design course
 
 certifications:
       title: Certifications
@@ -149,6 +146,7 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
           credentialname: 
           details: 
+
 # projects:
 #     title: Projects
 #     intro: 
