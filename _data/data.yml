@@ -176,19 +176,19 @@ publications:
     intro: 
     papers:
       - title: Guided Game Level Repair via Explainable AI
-        link: https://arxiv.org/pdf/2410.23101?
+        link: https://ojs.aaai.org/index.php/AIIDE/article/download/31874/34041
         authors: Mahsa Bazzaz and Seth Cooper
         conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
         year: 2024
 
       - title: Sturgeon-MKIV- Constraint-Based Level and Playthrough Generation with Graph Label Rewrite Rules
-        link: 
+        link: https://ojs.aaai.org/index.php/AIIDE/article/download/31862/34029/35931
         authors: Seth Cooper and Mahsa Bazzaz
         conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
         year: 2024
 
       - title: Controllable Game Level Generation- Assessing the Effect of Negative Examples in GAN Models
-        link: https://arxiv.org/abs/2410.23108
+        link: https://ojs.aaai.org/index.php/AIIDE/article/download/31875/34042
         authors: Mahsa Bazzaz and Seth Cooper
         conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
         year: 2024
