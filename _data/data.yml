@@ -97,13 +97,6 @@ experiences:
 
     title: Internships
     info: 
-      - role: Game Developer Intern
-        time: Mar 2021 – Dec 2021
-        company: Cirqle Games
-        details: |
-            - C# Development, Object-Oriented Programming
-            - Unity Game Engine, Game Design and Mechanics
-            - Azure DevOps, Agile Development
 
       - role: Back-End Developer Intern
         time: Jul 2020 – Feb 2021
@@ -178,19 +171,19 @@ publications:
     intro: 
     papers:
       - title: Guided Game Level Repair via Explainable AI
-        link: https://arxiv.org/pdf/2410.23101?
+        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31874
         authors: Mahsa Bazzaz and Seth Cooper
         conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
         year: 2024
 
       - title: Sturgeon-MKIV- Constraint-Based Level and Playthrough Generation with Graph Label Rewrite Rules
-        link: 
+        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31862
         authors: Seth Cooper and Mahsa Bazzaz
         conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
         year: 2024
 
       - title: Controllable Game Level Generation- Assessing the Effect of Negative Examples in GAN Models
-        link: https://arxiv.org/abs/2410.23108
+        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31875
         authors: Mahsa Bazzaz and Seth Cooper
         conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
         year: 2024
@@ -202,7 +195,7 @@ publications:
         year: 2024
       
       - title: Thirty-Three Years of Mathematicians and Software Engineers A Case Study of Domain Expertise and Participation in Proof Assistant Ecosystems
-        link: https://www.jonbell.net/preprint/msr24-proof-assistants.pdf
+        link: https://ieeexplore.ieee.org/abstract/document/10555745
         authors: G Lincroft, M Cho, K Hough, M Bazzaz, J Bell
         conference: Mining Software Repositories conference series 2024
         year: 2024
