@@ -106,12 +106,6 @@ experiences:
             - PostgreSQL, Jest.js
             - Azure DevOps, Agile Development
 
-      - role: Teaching Assistant
-        time: Feb 2020 - Jul 2020
-        company: Amirkabir University of Technology (Tehran Polytechnic)
-        details: |
-            - CE 3102213 Algorithm Design course
-
 certifications:
       title: Certifications
       list:
