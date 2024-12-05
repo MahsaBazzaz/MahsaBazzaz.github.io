@@ -89,11 +89,10 @@ experiences:
             - CS 5340 Human Computer Interaction
             - CS3520 Programming in C++
 
-       - role: Teaching Assistant
+      - role: Teaching Assistant
         time: Feb 2020 - Jul 2020
         company: Amirkabir University of Technology (Tehran Polytechnic)
-        details: |
-            - CE 3102213: Algorithm Design course
+        details: CE 3102213 Algorithm Design course
 
     title: Internships
     info: 
