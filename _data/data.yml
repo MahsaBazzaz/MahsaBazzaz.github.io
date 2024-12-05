@@ -78,6 +78,46 @@ education:
         details: |
         Selected Coursework: Principles and Applications of Artificial Intelligence, Principles of Computational Intelligence, Introduction to Machine Learning
 
+publications:
+    title: Publications
+    intro: 
+    papers:
+      - title: Guided Game Level Repair via Explainable AI
+        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31874
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+        year: 2024
+
+      - title: Sturgeon-MKIV- Constraint-Based Level and Playthrough Generation with Graph Label Rewrite Rules
+        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31862
+        authors: Seth Cooper and Mahsa Bazzaz
+        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+        year: 2024
+
+      - title: Controllable Game Level Generation- Assessing the Effect of Negative Examples in GAN Models
+        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31875
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+        year: 2024
+
+      - title: Literally Unplayable- On Constraint-Based Generation of Uncompletable Levels
+        link: https://doi.org/10.1145/3649921.3659844
+        authors: Seth Cooper and Mahsa Bazzaz
+        conference: Proceedings of the 19th International Conference on the Foundations of Digital Games (FDG)
+        year: 2024
+      
+      - title: Thirty-Three Years of Mathematicians and Software Engineers A Case Study of Domain Expertise and Participation in Proof Assistant Ecosystems
+        link: https://ieeexplore.ieee.org/abstract/document/10555745
+        authors: G Lincroft, M Cho, K Hough, M Bazzaz, J Bell
+        conference: Mining Software Repositories conference series 2024
+        year: 2024
+
+      - title: Active Learning for Classifying 2D Grid-Based Level Completability
+        link: https://ieeexplore.ieee.org/abstract/document/10333212
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: IEEE Conference on Games 2023
+        year: 2023
+
 experiences:
     title: Experiences
     info: 
@@ -92,7 +132,8 @@ experiences:
       - role: Teaching Assistant
         time: Feb 2020 - Jul 2020
         company: Amirkabir University of Technology (Tehran Polytechnic)
-        details: CE 3102213 Algorithm Design course
+        details: |
+            - CE 3102213 Algorithm Design course
 
       - role: Back-End Developer Intern
         time: Jul 2020 – Feb 2021
@@ -161,46 +202,6 @@ certifications:
 #       - title: Download Manager
 #         link: https://github.com/MahsaBazzaz/download-manager
 #         tagline: "A simple download manager implemented in Java language."
-
-publications:
-    title: Publications
-    intro: 
-    papers:
-      - title: Guided Game Level Repair via Explainable AI
-        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31874
-        authors: Mahsa Bazzaz and Seth Cooper
-        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
-        year: 2024
-
-      - title: Sturgeon-MKIV- Constraint-Based Level and Playthrough Generation with Graph Label Rewrite Rules
-        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31862
-        authors: Seth Cooper and Mahsa Bazzaz
-        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
-        year: 2024
-
-      - title: Controllable Game Level Generation- Assessing the Effect of Negative Examples in GAN Models
-        link: https://ojs.aaai.org/index.php/AIIDE/article/view/31875
-        authors: Mahsa Bazzaz and Seth Cooper
-        conference: The 20th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
-        year: 2024
-
-      - title: Literally Unplayable- On Constraint-Based Generation of Uncompletable Levels
-        link: https://doi.org/10.1145/3649921.3659844
-        authors: Seth Cooper and Mahsa Bazzaz
-        conference: Proceedings of the 19th International Conference on the Foundations of Digital Games (FDG)
-        year: 2024
-      
-      - title: Thirty-Three Years of Mathematicians and Software Engineers A Case Study of Domain Expertise and Participation in Proof Assistant Ecosystems
-        link: https://ieeexplore.ieee.org/abstract/document/10555745
-        authors: G Lincroft, M Cho, K Hough, M Bazzaz, J Bell
-        conference: Mining Software Repositories conference series 2024
-        year: 2024
-
-      - title: Active Learning for Classifying 2D Grid-Based Level Completability
-        link: https://ieeexplore.ieee.org/abstract/document/10333212
-        authors: Mahsa Bazzaz and Seth Cooper
-        conference: IEEE Conference on Games 2023
-        year: 2023
 
 skills:
     title: Skills &amp; Proficiency
