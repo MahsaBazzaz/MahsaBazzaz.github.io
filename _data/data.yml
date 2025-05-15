@@ -53,7 +53,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: I am a doctoral student at Northeastern University’s Khoury College of Computer Sciences, specializing in procedural content generation for discrete data types like game levels. My research combines traditional constraint-based models with modern machine learning techniques to generate diverse, playable, and computationally efficient game levels. My goal is to develop ensemble methods that capitalize on the reliability of constraint-based models alongside the speed of machine learning approaches. I am particularly interested in bringing together communities that rely on generative models to produce "correct" outputs like molecular design, arithmetic expression generation, and source code synthesis. These communities deal with underlying tasks that are highly similar to game level generation, therefore game level generation can offer an ideal test bed that avoids ethical concerns and excessive complexities for them.
     
 education:
@@ -67,7 +67,7 @@ education:
 
       - degree: MS in Computer Science
         university: Northeastern University
-        time: Jan 2023 - Mar 2025
+        time: Jan 2023 - Apr 2025
         details: |
         GPA: 4.0/4.0
         Selected Coursework: Statistical Methods for Computer Science, Procedural Content Generation via Machine Learning, Foundations and Applications of Information Theory
@@ -82,6 +82,30 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: Analysis of Robustness of a Large Game Corpus
+        link: https://dl.acm.org/doi/full/10.1145/3723498.3723820
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: 10th International Conference on the Foundations of Digital Games (FDG)
+        year: 2025
+
+      - title: Analysis of Uncertainty in Procedural Maps in Slay the Spire
+        link: https://dl.acm.org/doi/full/10.1145/3723498.3723846
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: The 16th Workshop on Procedural Content Generation (PCG2025)
+        year: 2025
+      
+      - title: Level Generation with Constrained Expressive Range
+        link: https://dl.acm.org/doi/full/10.1145/3723498.3723845
+        authors: Mahsa Bazzaz and Seth Cooper
+        conference: The 16th Workshop on Procedural Content Generation (PCG2025)
+        year: 2025
+
+      - title: Stuck in the Middle: Generating Levels without (or with) Softlocks
+        link: https://dl.acm.org/doi/full/10.1145/3723498.3723844
+        authors: Seth Cooper and Mahsa Bazzaz
+        conference: The 16th Workshop on Procedural Content Generation (PCG2025)
+        year: 2025
+
       - title: Guided Game Level Repair via Explainable AI
         link: https://ojs.aaai.org/index.php/AIIDE/article/view/31874
         authors: Mahsa Bazzaz and Seth Cooper
@@ -127,7 +151,8 @@ experiences:
         details: |
             - CS 3540 Game Programming * 3
             - CS 5340 Human Computer Interaction
-            - CS3520 Programming in C++
+            - CS3520 Programming in C++ * 2
+            - CS5800 Algorithms
 
       - role: Teaching Assistant
         time: Feb 2020 - Jul 2020
