@@ -100,7 +100,7 @@ publications:
         conference: The 16th Workshop on Procedural Content Generation (PCG2025)
         year: 2025
 
-      - title: Stuck in the Middle: Generating Levels without (or with) Softlocks
+      - title: Stuck in the Middle Generating Levels without (or with) Softlocks
         link: https://dl.acm.org/doi/full/10.1145/3723498.3723844
         authors: Seth Cooper and Mahsa Bazzaz
         conference: The 16th Workshop on Procedural Content Generation (PCG2025)
