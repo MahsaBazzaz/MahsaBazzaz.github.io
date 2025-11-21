@@ -82,6 +82,12 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation
+        link: https://ceur-ws.org/Vol-4090/short5.pdf
+        authors: Seth Cooper, Mahsa Bazzaz
+        conference: Joint AIIDE Workshop on Experimental Artificial Intelligence in Games and Intelligent Narrative Technologies
+        year: 2025
+
       - title: Analysis of Robustness of a Large Game Corpus
         link: https://dl.acm.org/doi/full/10.1145/3723498.3723820
         authors: Mahsa Bazzaz and Seth Cooper
@@ -151,7 +157,7 @@ experiences:
         details: |
             - CS 3540 Game Programming * 3
             - CS 5340 Human Computer Interaction
-            - CS3520 Programming in C++ * 2
+            - CS3520 Programming in C++ * 3
             - CS5800 Algorithms
 
       - role: Teaching Assistant
@@ -171,20 +177,20 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Human Subjects Research
-          start: Jan 2023
-          end: Jan 2026
-          organization: CITI Program
-          credentialid: 53616730
-          credentialurl: https://www.citiprogram.org/verify/?wf2f5cb66-af38-4f37-979a-419b37fadaf5-53616730
+        - name: Experimental Design Basics
+          start: Sep 2025
+          end: 
+          organization: Coursera
+          credentialid: 
+          credentialurl: https://www.coursera.org/account/accomplishments/records/AD13B7YFOW9H
           credentialname: 
           details: 
-        - name: Social and Behavioral Responsible Conduct of Research
-          start: Jan 2023
-          end: Jan 2026
-          organization: CITI Program
-          credentialid: 53616729
-          credentialurl: https://www.citiprogram.org/verify/?wf5f04cad-6ce8-495b-88a8-2281dc590d27-53616729
+        - name: Designing, Running, and Analyzing Experiments
+          start: Jul 2025
+          end: 
+          organization: Coursera
+          credentialid: 
+          credentialurl: https://coursera.org/share/8e4d58975f0ddfcfdd7dbf50f918f7cb
           credentialname: 
           details: 
         - name: Game Design
@@ -232,17 +238,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Unity2d | Unity3d | C#
-        level: 95%
-
-      - name: C#
-        level: 95%
-
       - name: Python
         level: 95%
-      
+
       - name: PyTorch | pandas| NumPy| scikit-learn
         level: 95%
+
+      - name: Unity2d | Unity3d | C#
+        level: 90%
+
+      - name: C#
+        level: 90%
 
       - name: TypeScript | JavaScript | Node.js | Nest.js | Express.js | Angular
         level: 70%
