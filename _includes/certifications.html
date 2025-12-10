@@ -14,16 +14,16 @@
       <div class="upper-row">
         <h3 class="cert-title">
 
-          {% if certificate.credentialurl %}
+          {% if certifications.credentialurl %}
             <a
-              href="//{{ certificate.credentialurl }}"
+              href="//{{ certifications.credentialurl }}"
               target="_blank"
               rel="noreferrer nofollow noopener"
             >
-              {{ certificate.name }}
+              {{ certifications.name }}
             </a>
           {% else %}
-            {{ certificate.name }}
+            {{ certifications.name }}
           {% endif %}
         </h3>
         <div class="time">
