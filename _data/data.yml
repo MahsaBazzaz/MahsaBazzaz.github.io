@@ -235,26 +235,56 @@ certifications:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 95%
+    categories:
+      - name: Programming Languages
+        items:
+          - Python
+          - TypeScript
+          - JavaScript
+          - Java
+          - C
+          - C++
 
-      - name: PyTorch | pandas| NumPy| scikit-learn
-        level: 95%
+      - name: Machine Learning & AI
+        items:
+          - PyTorch
+          - pandas
+          - NumPy
+          - scikit-learn
+          - SLURM
 
-      - name: Unity2d | Unity3d | C#
-        level: 90%
+      - name: Game Development
+        items:
+          - Unity2d
+          - Unity3d
+          - Godot
+          - Babylon.js
+          - Blender
+          - Game Mechanics
+          - Game Design
 
-      - name: C#
-        level: 90%
+      - name: Web Technologies
+        items:
+          - Node.js
+          - Nest.js
+          - Express.js
+          - Angular
+          - Vue.js
+          - HTML
+          - CSS
+          - SASS
+          - jQuery
+          - Bootstrap
+          - PHP
 
-      - name: TypeScript | JavaScript | Node.js | Nest.js | Express.js | Angular
-        level: 70%
+      - name: Database Systems
+        items:
+          - MySQL
+          - PostgreSQL
 
-      - name: Node.js | Nest.js | Express.js | Angular
-        level: 70%
-
-      - name: MySQL | PostgreSQL
-        level: 50%
+      - name: DevOps & Version Control
+        items:
+          - Git
+          - Azure DevOps
 
 footer: 
