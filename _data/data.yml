@@ -54,9 +54,10 @@ sidebar:
 
 career-profile:
     title: About Me
-    summary: I am a PhD candidate at Northeastern University's Khoury College of Computer Sciences. I work on machine learning, deep learning, and generative AI for games. 
-             My research combines traditional constraint-based models with modern machine learning techniques. Constraint-based models are reliable and guarantee playable outputs, while machine learning approaches are fast and scalable. By combining both, I build hybrid systems that generate diverse, high-quality game levels efficiently. 
-            I also run quantitative and qualitative user studies and use statistical analysis to understand how players perceive AI-generated content. These studies help me design generative systems that match player expectations."
+    summary: |
+            I am a PhD candidate at Northeastern University's Khoury College of Computer Sciences. I work on machine learning, deep learning, and generative AI for games. 
+            My research combines traditional constraint-based models with modern machine learning techniques. Constraint-based models are reliable and guarantee playable outputs, while machine learning approaches are fast and scalable. By combining both, I build hybrid systems that generate diverse, high-quality game levels efficiently. 
+            I also run quantitative and qualitative user studies and use statistical analysis to understand how players perceive AI-generated content. These studies help me design generative systems that match player expectations.
     
 education:
     title: Education
