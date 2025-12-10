@@ -78,6 +78,14 @@ education:
         details: |
         Selected Coursework: Principles and Applications of Artificial Intelligence, Principles of Computational Intelligence, Introduction to Machine Learning
 
+portfolio:
+    title: Portfolio
+    intro: Selected projects and publications showcasing my research in machine learning, data analysis and games
+    assignments:
+      - title: Analysis of Robustness of a Large Game Corpus
+        link: https://mahsabazzaz.github.io/portfolio/robustness/
+        tagline: Formalizing sensitivity to input changes in structured discrete data for PCGML
+
 publications:
     title: Publications
     intro: 
@@ -209,30 +217,6 @@ certifications:
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
           credentialname: 
           details: 
-
-# projects:
-#     title: Projects
-#     intro: 
-#     assignments:
-#       - title: Endless Runner
-#         link: https://github.com/MahsaBazzaz/endless-runner
-#         tagline: "A Simple Endless Runner Game"
-
-#       - title: Twitter Crawler
-#         link: https://github.com/MahsaBazzaz/twitter-crawler
-#         tagline: "Implementation of a twitter crawler with Angular (front-end), Node.Js and PostgreSQL (back-end)"
-
-#       - title: Online Shop
-#         link: https://github.com/MahsaBazzaz/online-shop
-#         tagline: "Implementation of a simple E-commerce Store in HTML, CSS (front-end) and Node.Js, PostgreSQL (back-end) "
-
-#       - title: Foofle Principles of Database Design
-#         link: https://github.com/MahsaBazzaz/rocks-db
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Download Manager
-#         link: https://github.com/MahsaBazzaz/download-manager
-#         tagline: "A simple download manager implemented in Java language."
 
 skills:
     title: Skills &amp; Proficiency
