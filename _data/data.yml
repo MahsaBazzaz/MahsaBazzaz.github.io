@@ -205,7 +205,7 @@ certifications:
           organization: Coursera
           credentialid: 
           credentialurl: https://www.coursera.org/account/accomplishments/records/AD13B7YFOW9H
-          credentialname: 
+          credentialname: course completion
           details: 
         - name: Designing, Running, and Analyzing Experiments
           start: Jul 2025
@@ -213,7 +213,7 @@ certifications:
           organization: Coursera
           credentialid: 
           credentialurl: https://coursera.org/share/8e4d58975f0ddfcfdd7dbf50f918f7cb
-          credentialname: 
+          credentialname: course completion
           details: 
         - name: Game Design
           start: Aug 2021
@@ -221,7 +221,7 @@ certifications:
           organization: Coursera
           credentialid: 
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/ZT76GG9UW3GX
-          credentialname: 
+          credentialname: course completion
           details: 
         - name: Gamification
           start: July 2021
@@ -229,7 +229,7 @@ certifications:
           organization: Coursera
           credentialid: 
           credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
-          credentialname: 
+          credentialname: course completion
           details: 
 
 skills:
