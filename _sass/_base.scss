@@ -256,18 +256,23 @@ p {
     margin-bottom: 15px;
     overflow: hidden;
   }
-  .level-title {
+  .category-title {
     font-size: 14px;
+    font-weight: 600;
     margin-top: 0;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
   }
-  .level-bar {
-    height: 12px;
+  .skill-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .skill-item {
     background: $smoky-white;
-  }
-  .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
+    padding: 4px 10px;
+    border-radius: 3px;
+    font-size: 13px;
+    color: $text-color;
   }
 }
 
