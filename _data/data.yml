@@ -68,12 +68,14 @@ education:
         university: Northeastern University
         time: Jan 2023 - Dec 2027
         details: |
+                Statistical Methods, Quantitative \& Qualitative Studies, Experimental Design
         Advisor Professor: Seth Cooper
 
       - degree: MS in Computer Science
         university: Northeastern University
         time: Jan 2023 - Apr 2025
         details: |
+                Machine Learning, Deep Learning, Generative AI, Constraint-Based Models
         GPA: 4.0/4.0
         Selected Coursework: Statistical Methods for Computer Science, Procedural Content Generation via Machine Learning, Foundations and Applications of Information Theory
 
@@ -164,6 +166,13 @@ publications:
 experiences:
     title: Experiences
     info: 
+      - role: Graduate Research Assistant
+        time: Jan 2023 - present
+        company: Northeastern University
+        details: |
+        - hybrid generative systems combining constraint-based models and deep learning for game level generation
+        - Designed and conducted quantitative and qualitative user studies
+
       - role: Graduate Teaching Assistant
         time: Jan 2023 - present
         company: Northeastern University
@@ -173,12 +182,6 @@ experiences:
             - CS3520 Programming in C++ * 3
             - CS5800 Algorithms
 
-      - role: Teaching Assistant
-        time: Feb 2020 - Jul 2020
-        company: Amirkabir University of Technology (Tehran Polytechnic)
-        details: |
-            - CE 3102213 Algorithm Design course
-
       - role: Back-End Developer Intern
         time: Jul 2020 – Feb 2021
         company: Limoome
@@ -186,6 +189,12 @@ experiences:
             - Node.js, Nest.js, TypeScript
             - PostgreSQL, Jest.js
             - Azure DevOps, Agile Development
+
+      - role: Teaching Assistant
+        time: Feb 2020 - Jul 2020
+        company: Amirkabir University of Technology (Tehran Polytechnic)
+        details: |
+            - CE 3102213 Algorithm Design course
 
 certifications:
       title: Certifications
