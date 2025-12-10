@@ -87,7 +87,7 @@ education:
 
 projects:
     title: Portfolio
-    intro: Selected projects and publications showcasing my research in machine learning, data analysis and games
+    intro: Interactive documents showcasing my research in machine learning, data analysis and games
     assignments:
       - title: Analysis of Robustness of a Large Game Corpus
         link: https://mahsabazzaz.github.io/portfolio/robustness/
