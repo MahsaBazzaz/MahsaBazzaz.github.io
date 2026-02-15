@@ -55,12 +55,9 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-            I am a PhD candidate at Northeastern University's Khoury College of Computer Sciences. I work on machine learning, deep learning, and generative AI for games. 
+            I am a PhD candidate at Northeastern University's Khoury College of Computer Sciences. I am a mixed methods researcher with expertise in experimental design, survey methodology, and statistical modeling.
             
-            My research combines traditional constraint-based models with modern machine learning techniques. Constraint-based models are reliable and guarantee playable outputs, while machine learning approaches are fast and scalable. By combining both, I build hybrid systems that generate diverse, high-quality game levels efficiently. 
-            
-            I also run quantitative and qualitative user studies and use statistical analysis to understand how players perceive AI-generated content. These studies help me design generative systems that match player expectations.
-    
+            I am Experienced in designing and conducting user studies with a focus on human-centered AI. My research explores how people perceive, interact with, and form expectations around AI-generated content — and how those insights can inform the design of more intuitive, trustworthy, and user-centered AI experiences. 
 education:
     title: Education
     info:
@@ -68,14 +65,14 @@ education:
         university: Northeastern University
         time: Jan 2023 - Dec 2027
         details: |
-                Statistical Methods, Quantitative \& Qualitative Studies, Experimental Design
+                Experimental Design, Survey Methodologies, A/B Testing,  Usability Studies, Log Analysis, Thematic Analysis, Statistical Methods
         Advisor Professor: Seth Cooper
 
       - degree: MS in Computer Science
         university: Northeastern University
         time: Jan 2023 - Apr 2025
         details: |
-                Machine Learning, Deep Learning, Generative AI, Constraint-Based Models
+                Regression Models, Machine Learning, Deep Learning, Clustering and Classification
         GPA: 4.0/4.0
         Selected Coursework: Statistical Methods for Computer Science, Procedural Content Generation via Machine Learning, Foundations and Applications of Information Theory
 
@@ -97,6 +94,12 @@ publications:
     title: Publications
     intro: 
     papers:
+      - title: Playing the Imitation Game: How Perceived Generated Content Shapes Player Experience
+        link: 
+        authors: Mahsa Bazzaz, Seth Cooper
+        conference: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)
+        year: 2026
+
       - title: A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation
         link: https://ceur-ws.org/Vol-4090/short5.pdf
         authors: Seth Cooper, Mahsa Bazzaz
@@ -170,25 +173,29 @@ experiences:
         time: Jan 2023 - present
         company: Northeastern University
         details: |
-                 - hybrid generative systems combining constraint-based models and deep learning for game level generation
-                 - Designed and conducted quantitative and qualitative user studies
+                 - Designed and conducted a mixed-methods study (n=154, 852 trials) examining how people perceive AI vs. human-created content
+                 - Analyzed user experience metrics using statistical analysis (ordinal logistic regression (CLMM) with crossed random effects, likelihood-ratio tests, and binomial tests)
+                 - Conducted thematic analysis of 852 open-ended responses using NVivo (+inter-rater reliability)
+                 - Analyzed 20,000 user session logs using information-theoretic framework to quantify uncertainty in player choices
 
       - role: Graduate Teaching Assistant
         time: Jan 2023 - present
         company: Northeastern University
         details: |
-            - CS 3540 Game Programming * 3
             - CS 5340 Human Computer Interaction
-            - CS3520 Programming in C++ * 3
             - CS5800 Algorithms
+            - CS3520 Programming in C++ * 3
+            - CS 3540 Game Programming * 3
 
-      - role: Back-End Developer Intern
+      - role: Full-Stack Developer Intern
         time: Jul 2020 – Feb 2021
         company: Limoome
         details: |
-            - Node.js, Nest.js, TypeScript
-            - PostgreSQL, Jest.js
-            - Azure DevOps, Agile Development
+            - Built features for a health platform connecting users with dietitians, enabling personalized diet planning, progress tracking, and doctor-patient communication
+            - Built frontend components in Angular for user dashboards and progress visualization
+            - Collaborated in Agile sprints using Azure DevOps; participated in code reviews, sprint planning, and cross-team coordination
+            - Developed RESTful APIs and PostgreSQL database schemas to support user health profiles, appointment scheduling, and diet progress monitoring
+            - Designed and implemented microservices for core platform functions including transactions, SMS/push notifications, and user management using Node.js and Nest.js
 
       - role: Teaching Assistant
         time: Feb 2020 - Jul 2020
@@ -215,76 +222,66 @@ certifications:
           credentialurl: https://coursera.org/share/8e4d58975f0ddfcfdd7dbf50f918f7cb
           credentialname: course completion
           details: 
-        - name: Game Design
-          start: Aug 2021
-          end: 
-          organization: Coursera
-          credentialid: 
-          credentialurl: https://www.coursera.org/account/accomplishments/certificate/ZT76GG9UW3GX
-          credentialname: course completion
-          details: 
-        - name: Gamification
-          start: July 2021
-          end: 
-          organization: Coursera
-          credentialid: 
-          credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
-          credentialname: course completion
-          details: 
+        # - name: Game Design
+        #   start: Aug 2021
+        #   end: 
+        #   organization: Coursera
+        #   credentialid: 
+        #   credentialurl: https://www.coursera.org/account/accomplishments/certificate/ZT76GG9UW3GX
+        #   credentialname: course completion
+        #   details: 
+        # - name: Gamification
+        #   start: July 2021
+        #   end: 
+        #   organization: Coursera
+        #   credentialid: 
+        #   credentialurl: https://www.coursera.org/account/accomplishments/certificate/CM92EAYD237A
+        #   credentialname: course completion
+        #   details: 
 
 skills:
     title: Skills &amp; Proficiency
 
     categories:
-      - name: Programming Languages
+      - name: Survey & Experimental Design
+        items:
+          - Mixed Methods Research
+          - Survey Methodology
+          - Experimental Design
+          - A/B Testing
+          - Usability Studies
+          - Log Analysis
+          - Conjoint analysis
+          - Thematic Analysis
+          - Statistical Methods
+          - Qualtrics
+          - IRB protocols
+
+      - name: Programming & Tools
         items:
           - Python
           - TypeScript
           - JavaScript
-          - Java
-          - C
           - C++
+          - Git
+          - Azure DevOps
 
-      - name: Machine Learning & AI
+      - name: Data Analysis & Machine Learning
         items:
-          - PyTorch
+          - SQL
           - pandas
           - NumPy
           - scikit-learn
+          - PyTorch
           - SLURM
 
-      - name: Game Development
+      - name: Visualization
         items:
-          - Unity2d
-          - Unity3d
-          - Godot
-          - Babylon.js
-          - Blender
-          - Game Mechanics
-          - Game Design
-
-      - name: Web Technologies
-        items:
-          - Node.js
-          - Nest.js
-          - Express.js
-          - Angular
-          - Vue.js
+          - Tableau
+          - Canva
+          - Figma
+          - Matplotlib
           - HTML
           - CSS
-          - SASS
-          - jQuery
-          - Bootstrap
-          - PHP
-
-      - name: Database Systems
-        items:
-          - MySQL
-          - PostgreSQL
-
-      - name: DevOps & Version Control
-        items:
-          - Git
-          - Azure DevOps
 
 footer: 
