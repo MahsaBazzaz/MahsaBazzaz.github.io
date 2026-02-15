@@ -84,7 +84,7 @@ education:
 
 projects:
     title: Portfolio
-    intro: Interactive documents showcasing my research in machine learning, data analysis and games
+    intro: Interactive documents showcasing my research in
     assignments:
       - title: Analysis of Robustness of a Large Game Corpus
         link: https://mahsabazzaz.github.io/portfolio/robustness/
@@ -94,7 +94,7 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: Playing the Imitation Game: How Perceived Generated Content Shapes Player Experience
+      - title: Playing the Imitation Game- How Perceived Generated Content Shapes Player Experience
         link: 
         authors: Mahsa Bazzaz, Seth Cooper
         conference: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)
