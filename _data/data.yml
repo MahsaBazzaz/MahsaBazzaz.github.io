@@ -95,7 +95,7 @@ publications:
     intro: 
     papers:
       - title: Playing the Imitation Game- How Perceived Generated Content Shapes Player Experience
-        link: 
+        link: https://arxiv.org/pdf/2602.14254
         authors: Mahsa Bazzaz, Seth Cooper
         conference: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)
         year: 2026
